@@ -34,10 +34,10 @@ Chatbots are being used more and more by companies because unlike human operator
 
 ### <a name="work"></a>How chatbots work
 Building a chatbot requires identifying the following four things: 
-  -Understand target audience: college students, consumer of the product, businessmen/women, or some other category of users.
-  -Understand the natural language of communication: Is the user asking question in English, French, Chinese, Spanish, and so on?
-  -Understand the intent or desire of the user: Is the user asking about book recommendation, restaurant search, booking hotel, how to use software?
-  -Lastly, you want your chatbot to provide appropriate response to user’s question.
+  - Understand target audience: college students, consumer of the product, businessmen/women, or some other category of users.
+  - Understand the natural language of communication: Is the user asking question in English, French, Chinese, Spanish, and so on?
+  - Understand the intent or desire of the user: Is the user asking about book recommendation, restaurant search, booking hotel, how to use software?
+  - Lastly, you want your chatbot to provide appropriate response to user’s question.
 
 Chatbot is also about simulating conversation between humans, so there are fun aspect of making a chatbot, like adding personalities. 
 
@@ -75,7 +75,7 @@ Here are a few popular machine learning libraries available for Python. You can 
 
 [Back to top](#top)
 
-## <a name="license></a>License Information
+## <a name="license"></a>License Information
 The MIT License (MIT)
 
 Copyright © 2019 Zeros_Matter

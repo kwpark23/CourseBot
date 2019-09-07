@@ -82,6 +82,8 @@ To solve the issue of machine learning library implmentation, I used Dialogflow,
 
 More detailed instruction can be found in the Jupyer notebook named, "Building chatbot with Dialogflow". 
 
+The chatbot I built using Dialgoflow can be found [here.](https://www.facebook.com/CourseBot-2303590903189187/?view_public_for=2303590903189187) This chatbot answers questions regarding computer science courses at UTM. User can ask questions like, "Who is the instructor for CSC301?", "What courses does professor Lisa Zhang teach?", and "What are the prerequisite for CSC301?". 
+
 I also had a problem using this approach: I had a difficulty figuring out how to make chatbot remember user's previous input to respond to user's future requests. For example, if user is ordering from Pizza-order chatbot and type, "My favorite pizza is pepperoni and my second favorite is pineapple", then type, "I want to place order for my second favorite pizza", how would the chatbot knows what user meant by 'second favorite'?
 
 [Back to top](#top)

@@ -9,10 +9,12 @@ This is an independent reasearch project for Summer 2019.
     - [Introduction to Chatbot](#intro2)
     - [How chatbots work](#work)
     - [How chatbots apply machine learning](#apply)
-3. [Building a chatbot using Python](#python)
-4. [Building a chatbot using Dialogflow](#dialog)
-5. [Research Materials](#material)
-6. [License Information](#license)
+3. [Learning about chatbot](#learn) 
+4. [Building a chatbot using Python](#python)
+5. [Building a chatbot using Dialogflow](#dialog)
+6. [Closing](#closing)
+7. [Research Materials](#material)
+8. [License Information](#license)
 
 ## <a name="intro"></a>Research Description 
 
@@ -56,6 +58,37 @@ Here are a few popular machine learning libraries available for Python. You can 
   -  Scikit-learn [installation](https://scikit-learn.org/stable/install.html)
   -  rasa_nlu [installation](http://rasa.com/docs/rasa/user-guide/installation/)
   
+[Back to top](#top)
+
+## <a name="learning"></a>Learning about chatbot
+I took a Datacamp course called, "Building Chatbot in Python" [link](https://www.datacamp.com/courses/building-chatbots-in-python) to better understand how to make a chatbot step-by-step. 
+
+The note I compiled while studied up on chatbot can be found in the Jupyter notebook named, "Python Chatbot Project". 
+
+[Back to top](#top)
+
+## <a name="python"></a>Building a chatbot using Python
+The first way to build and deploy a chatbot is by using Python programming lanugage. This involves two things: Having a simple chatbot code to simulate conversation and deploying it to Facebook Messenger by connecting to localhost server using **flasks**, **requests**, and **ngrok** modules/program.
+
+More detailed instruction can be found in the Jupyter notebook named, "Deploying Python bot on Facebook Messenger". 
+
+However, I had two problems with this approach: First, chatbot Messenger becomes inactive when close your localhost server. If you want to reactivate it, you have to manually enter new localhost server address. Second, there was a challenge to manually set up machine learning aspect to my chatbot using one of the machine learning libraries. 
+
+[Back to top](#top)
+
+## <a name="dialog"></a>Building a chatbot using Dialogflow
+
+To solve the issue of machine learning library implmentation, I used Dialogflow, a chatbot-building platform developed by Google. Dialogflow had two benefits over Python version: First, it trains your chatbot automatically once you define intents and entities using built-in NLP. Second, your chatbot Messenger stays active even after you close Dialogflow window. 
+
+More detailed instruction can be found in the Jupyer notebook named, "Building chatbot with Dialogflow". 
+
+I also had a problem using this approach: I had a difficulty figuring out how to make chatbot remember user's previous input to respond to user's future requests. For example, if user is ordering from Pizza-order chatbot and type, "My favorite pizza is pepperoni and my second favorite is pineapple", then type, "I want to place order for my second favorite pizza", how would the chatbot knows what user meant by 'second favorite'?
+
+[Back to top](#top)
+
+## <a name="closing"></a>Closing
+I learned a great deal about chatbot from my summer research project. I learned how chatbot can automate tasks formally done by people and make data access more convenient for people who use it. Also, I learned machine learning can be used to make chatbot more intelligent by recognizing structural difference of user input. Lastly, this is my on-going project, one in which I plan to improve on once I have a better understanding of machine learning concept.  
+
 [Back to top](#top)
 
 ## <a name="material"></a>Research Materials

@@ -113,7 +113,7 @@ I learned a great deal about chatbot from my summer research project. I learned 
 ## <a name="license"></a>License Information
 The MIT License (MIT)
 
-Copyright © 2019 Zeros_Matter
+Copyright © 2019 Kwangjin Park
 
 You can find a copy of the License at https://mit-license.org/
 

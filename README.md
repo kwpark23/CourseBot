@@ -18,7 +18,7 @@ This is an independent reasearch project for Summer 2019.
 
 ## <a name="intro"></a>Research Description 
 
-This summer, I attended the study group for students who were interested in machine learning, led by Lisa Zhang, who is a CS professor at UTM. I decided to work on a research project to learn a how machine learning can be used to solve real world problems. After choosing **chatbot** as my research topic, I read up various articles to learn about it in detail, built a simple chatbot to understand how it works, wrote up instructions for other students to build their own chatbot, and presented about my research in front of other students and Lisa.  
+This summer, I attended the study group for students who were interested in machine learning, led by Lisa Zhang, who is a CS professor at UTM. I decided to work on a research project to learn how machine learning can be used to solve real world problems. After choosing **chatbot** as my research topic, I read various articles to learn about it in detail, built a simple chatbot to understand how it works, wrote up instructions for other students to build their own chatbot, and presented about my research in front of other students and Lisa at the end of my two-month project.  
 
 [Back to top](#top)
 

@@ -61,7 +61,7 @@ Here are a few popular machine learning libraries available for Python. You can 
 [Back to top](#top)
 
 ## <a name="learn"></a>Learning about chatbot
-I took a Datacamp course called, "Building Chatbot in Python" [link](https://www.datacamp.com/courses/building-chatbots-in-python) to better understand how to make a chatbot step-by-step. 
+I took a Datacamp course called, "Building Chatbot in Python" [(link)](https://www.datacamp.com/courses/building-chatbots-in-python) to better understand how to make a chatbot step-by-step. 
 
 The note I compiled while studied up on chatbot can be found in the Jupyter notebook named, "Python Chatbot Project". 
 

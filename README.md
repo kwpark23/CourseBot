@@ -63,14 +63,14 @@ Here are a few popular machine learning libraries available for Python. You can 
 ## <a name="learn"></a>Learning about chatbot
 I took a Datacamp course called, "Building Chatbot in Python" [(link)](https://www.datacamp.com/courses/building-chatbots-in-python) to better understand how to make a chatbot step-by-step. 
 
-The note I compiled while studied up on chatbot can be found in the Jupyter notebook named, "Python Chatbot Project". 
+The note I compiled while studied up on chatbot can be found in the Jupyter notebook named, **"Python Chatbot Project"**. 
 
 [Back to top](#top)
 
 ## <a name="python"></a>Building a chatbot using Python
 The first way to build and deploy a chatbot is by using Python programming lanugage. This involves two things: Having a simple chatbot code to simulate conversation and deploying it to Facebook Messenger by connecting to localhost server using **flasks**, **requests**, and **ngrok** modules/program.
 
-More detailed instruction can be found in the Jupyter notebook named, "Deploying Python bot on Facebook Messenger". 
+More detailed instruction can be found in the Jupyter notebook named, **"Deploying Python bot on Facebook Messenger"**. 
 
 However, I had two problems with this approach: First, chatbot Messenger becomes inactive when close your localhost server. If you want to reactivate it, you have to manually enter new localhost server address. Second, there was a challenge to manually set up machine learning aspect to my chatbot using one of the machine learning libraries. 
 
@@ -80,7 +80,7 @@ However, I had two problems with this approach: First, chatbot Messenger becomes
 
 To solve the issue of machine learning library implmentation, I used Dialogflow, a chatbot-building platform developed by Google. Dialogflow had two benefits over Python version: First, it trains your chatbot automatically once you define intents and entities using built-in NLP. Second, your chatbot Messenger stays active even after you close Dialogflow window. 
 
-More detailed instruction can be found in the Jupyer notebook named, "Building chatbot with Dialogflow". 
+More detailed instruction can be found in the Jupyer notebook named, **"Building chatbot with Dialogflow"**. 
 
 The chatbot I built using Dialgoflow can be found [here.](https://www.facebook.com/CourseBot-2303590903189187/?view_public_for=2303590903189187) This chatbot answers questions regarding computer science courses at UTM. User can ask questions like, "Who is the instructor for CSC301?", "What courses does professor Lisa Zhang teach?", and "What are the prerequisite for CSC301?". 
 
